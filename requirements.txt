@@ -1,0 +1,14 @@
+pandas
+jupyter
+opencv-python==4.5.5.62
+sudachipy
+SudachiDict-full
+colorama
+pyperclip
+scikit-learn
+transformers
+tensorflow
+torch
+tqdm
+seaborn
+matplotlib
